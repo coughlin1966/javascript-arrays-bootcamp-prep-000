@@ -28,7 +28,7 @@ frArray.push(Color)
 destructivelyAddElementToEndOfArray('Yellow', frArray)
 
 var fifthArray = ['Grrr', 'Arrgg', 'Ugh', 'Ack']
-function ccessElementInArray (fiArray, Excl) {
+function accessElementInArray (fiArray, Excl) {
 return fiArray[Excl]
 }
 accessElementInArray(fifthArray,2)
